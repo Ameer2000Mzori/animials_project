@@ -1,0 +1,16 @@
+.animals-list{
+    display: flex;
+    position: relative;
+}
+.animal-img{ 
+
+    border-radius: 14px;
+    width: 150px;
+    background-color: black;
+}
+.heart-img{
+    position: absolute;
+    left: 1rem;
+    bottom: 1rem;
+    max-width: 100px;
+}

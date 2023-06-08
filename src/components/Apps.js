@@ -1,8 +1,6 @@
 import { useState } from "react";
 import Animalshow from "./AnimalShow";
-import dog from "../imgs/dog.jpg";
-import cat from "../imgs/cat.jpg";
-import horse from "../imgs/horse.jpg";
+import './App.css';
 
 // import
 // import
